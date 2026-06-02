@@ -1,0 +1,31 @@
+Motor_ID,Description,Location,Power_kW,Voltage_V,Manufacturer,Install_Date
+MTR-101,Motor 1,Pump Station,110,1000,Siemens,2020-12-31
+MTR-102,Motor 2,Processing Plant,110,1000,WEG,2019-04-12
+MTR-103,Motor 3,Mill,55,415,TECO,2018-05-11
+MTR-104,Motor 4,Processing Plant,37,690,WEG,2021-04-30
+MTR-105,Motor 5,Pump Station,110,415,TECO,2018-01-22
+MTR-106,Motor 6,Processing Plant,75,415,ABB,2019-04-20
+MTR-107,Motor 7,Mill,250,690,TECO,2020-09-02
+MTR-108,Motor 8,Mill,75,1000,TECO,2022-03-09
+MTR-109,Motor 9,Mill,110,1000,Baldor,2024-01-24
+MTR-110,Motor 10,Conveyor,75,415,TECO,2023-08-24
+MTR-111,Motor 11,Conveyor,37,415,WEG,2021-09-25
+MTR-112,Motor 12,Pump Station,250,1000,TECO,2020-02-15
+MTR-113,Motor 13,Mill,160,415,TECO,2022-05-05
+MTR-114,Motor 14,Pump Station,37,690,WEG,2022-02-09
+MTR-115,Motor 15,Conveyor,37,690,WEG,2023-06-05
+MTR-116,Motor 16,Pump Station,160,1000,TECO,2020-10-13
+MTR-117,Motor 17,Processing Plant,110,690,Baldor,2020-03-02
+MTR-118,Motor 18,Conveyor,22,415,ABB,2021-03-26
+MTR-119,Motor 19,Processing Plant,22,415,ABB,2021-09-29
+MTR-120,Motor 20,Crusher,75,1000,Siemens,2022-03-03
+MTR-121,Motor 21,Crusher,55,1000,ABB,2019-01-14
+MTR-122,Motor 22,Processing Plant,37,1000,WEG,2023-09-20
+MTR-123,Motor 23,Pump Station,250,415,TECO,2019-05-18
+MTR-124,Motor 24,Processing Plant,55,690,Siemens,2022-04-20
+MTR-125,Motor 25,Crusher,55,415,Siemens,2020-10-25
+MTR-126,Motor 26,Conveyor,250,1000,Siemens,2019-01-28
+MTR-127,Motor 27,Conveyor,37,415,Siemens,2020-05-13
+MTR-128,Motor 28,Crusher,75,415,TECO,2022-10-24
+MTR-129,Motor 29,Processing Plant,250,1000,Baldor,2022-08-06
+MTR-130,Motor 30,Mill,110,415,Siemens,2022-12-25
